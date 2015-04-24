@@ -1,0 +1,25 @@
+{
+  env: {
+    browser: true,
+    node: true
+  },
+  ecmaFeatures: {
+    arrowFunctions: true,
+    templateStrings: true,
+    blockBindings: true,
+    modules: true,
+    objectLiteralShorthandProperties: true,
+    objectLiteralComputedProperties: true,
+    classes: true,
+    spread: true,
+    destructuring: true
+  },
+  rules: {
+    quotes: "single",
+    no-underscore-dangle: false,
+    curly: [2, "multi-line"],
+    new-cap: false,
+    no-use-before-define: false,
+    no-unused-expressions: false
+  }
+}
