@@ -1,6 +1,6 @@
 {
   "name": "the-jungle",
-  "version": "0.0.6",
+  "version": "0.1.0",
   "description": "Lightweight toolkit for creating maintainable applications with React JS",
   "main": "dist/index.js",
   "scripts": {
