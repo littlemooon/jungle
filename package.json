@@ -1,10 +1,10 @@
 {
   "name": "the-jungle",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "Lightweight toolkit for creating maintainable applications with React JS",
   "main": "dist/index.js",
   "scripts": {
-    "build": "babel -d dist ./src"
+    "build": "babel -w -d dist ./src"
   },
   "dependencies": {
     "kaa": "^0.1.1",
