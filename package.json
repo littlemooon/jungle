@@ -1,5 +1,5 @@
 {
-  "name": "the-jungle",
+  "name": "junglejs",
   "version": "0.1.0",
   "description": "Lightweight toolkit for creating maintainable applications with React JS",
   "main": "dist/index.js",
@@ -7,12 +7,12 @@
     "build": "babel -w -d dist ./src"
   },
   "dependencies": {
-    "kaa": "^0.1.1",
-    "mowgli": "^0.1.2"
+    "kaa": "^0.1.0",
+    "mowgli": "^0.1.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/littlemooon/the-jungle.git"
+    "url": "https://github.com/littlemooon/jungle.git"
   },
   "keywords": [
     "react",
